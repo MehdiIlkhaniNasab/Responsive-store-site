@@ -770,7 +770,7 @@ color: #fff;
   padding: 0.3rem;
   display: flex;
   flex-wrap: wrap;
-
+  cursor: pointer;
   
 }
 .img-shoe-left{
@@ -802,7 +802,7 @@ font-family: 'PoppinsLatin-SemiBold';
   flex-direction: column;
   background-color: #F5F5F6;
   overflow: hidden;
-
+  cursor: pointer;
 }
 .shoe-info-right-img{
   margin: 0 auto;
