@@ -1042,4 +1042,16 @@ display: none;
   
   flex-basis: 80%;
 }
+.collection-shoes-left {
+  flex-basis: 100%;
+  justify-content: center;
+  align-items: center;
+
+}
+.shoe
+{
+  margin-right: 0.5rem;
+  flex-basis: 100%;
+
+}
 }
